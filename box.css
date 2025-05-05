@@ -1,0 +1,49 @@
+/* #outer{
+    height: 200px;
+    width:70px ;
+    border: 2px solid black;
+}
+.inner{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+
+}
+#red
+{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+} */
+
+#box{
+    color: rgb(12, 23, 23);
+    height: 150px;
+    width: 300px;
+    background-color: rgb(170, 153, 153);
+    border: 5px    double rgb(9, 8, 7);
+    /* margin-top: 20px;
+    margin-right: 1em;
+    margin-bottom: 40px;
+    margin-left: 2em; */
+    margin: 20px 1em 40px 2em ;
+    padding: 1em;
+    border-radius: 20px;
+
+
+
+
+}
+h1{
+    
+    border: 5px solid lightcoral;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
