@@ -1,0 +1,37 @@
+div{
+    height: 300px;
+    width: 300px;
+    
+    background-color:rgb(161, 133, 130);
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: crimson; */
+    border: 5px solid rgb(21, 31, 21);
+    /* border-radius: 5% 8% 15% 50%; */
+    border-radius: 10px;
+    /* border-top-right-radius: 50px; */
+    padding-top: 70px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    margin: 20px;
+    
+
+}
+h1{
+    /* border-style: double;
+    border-width: 4px;
+    border-color: green; */
+    border: 3px double green;
+    
+    
+
+}
+button{
+
+    
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px 25px;
+
+}
